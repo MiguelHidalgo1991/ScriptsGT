@@ -1,0 +1,1 @@
+javascript:if (game_data.player.premium == 1) {var coords = $("table[class=content-border]").html().match(/\d+\|\d+/g);alert((coords && (coords.length > 0) ? coords.join(" ") :"No hay coordenadas."))};

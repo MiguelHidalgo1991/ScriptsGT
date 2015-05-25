@@ -42,7 +42,7 @@ var unidades = {
     catapult: [0, 0],
     snob: [0, 0]
 }, opcoes = {
-        coords: "479|448 480|445 481|446 481|445 477|445 482|447 481|444 476|445 475|447 478|451",
+        coords: "499|433",
         protecao: 1,
         obter_coords: 1,
         aldeia_pontos: {
